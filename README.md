@@ -1,16 +1,13 @@
-### Hi there 👋
+# ABOUT ME
 
-<!--
-**VI-Tran-computerEngineer/VI-Tran-computerEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developed by: **Vi Long Tran**
 
-Here are some ideas to get you started:
+I am an Embedded Linux Engineer. I graduated *Faculty of Conputer Science and Engineering* at *Ho Chi Minh University of Technology* in 2022.  
+I got experienced working with following programming languages: C, C++, Python, Bash.  
+I had time been a DevOps software Engineer who develops CI/CD jobs and deploy in Kubernetes clusters.  
+I had time been a Embedded Firmware Enginner who develops drivers for testing modules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# CONTACT INFO:
+1. Email: tranlongvi.ce@gmail.com
+2. LinkenIn: https://www.linkedin.com/in/tran-long-vi-ce/
+3. Twitter: https://twitter.com/V89785093
