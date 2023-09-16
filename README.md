@@ -2,7 +2,7 @@
 
 Developed by: **Vi Long Tran**
 
-I am an Embedded Linux Engineer. I graduated *Faculty of Conputer Science and Engineering* at *Ho Chi Minh University of Technology* in 2022.  
+I am an Embedded & DevOps Engineer. I graduated *Faculty of Conputer Science and Engineering* at *Ho Chi Minh University of Technology* in 2022.  
 I got experienced working with following programming languages: C, C++, Python, Bash.  
 I had time been a DevOps software Engineer who develops CI/CD jobs and deploy in Kubernetes clusters.  
 I had time been a Embedded Firmware Enginner who develops drivers for testing modules.
